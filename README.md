@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [Blog](https://liujilongobject.github.io/)
 
 ### 我觉得我会永远的生猛下去，什么也锤不了我。
 
