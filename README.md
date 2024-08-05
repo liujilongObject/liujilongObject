@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### [Blog](https://liujilongobject.github.io/)
 
-### 我
+### 写点介绍
 
 - 😊 前端
 - 🚀 技术驱动
