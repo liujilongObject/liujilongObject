@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [Blog](https://liujilongobject.github.io/)
+### [My Blog](https://liujilongobject.github.io/)
 
 ### 写点介绍
 
