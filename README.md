@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [My Blog](https://liujilongobject.github.io/)
 
 ### 写点介绍
 
 - 😊 前端, AI
 - 🚀 技术驱动
 - 👀 摸鱼爱好者
+
+### 我的小工具
+- [EasyWebToolkit——文件工具箱](https://liujilongobject.github.io/easytoolkit/)
+
+### [Blog](https://liujilongobject.github.io/)
