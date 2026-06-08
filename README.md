@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😊 前端, AI
 - 🚀 技术驱动
 - 👀 摸鱼爱好者
+- 📄 [Blog](https://liujilongobject.github.io/)
 
 ### 我的小工具
 - [EasyWebToolkit——文件工具箱](https://liujilongobject.github.io/easytoolkit/)
 
-### [Blog](https://liujilongobject.github.io/)
